@@ -103,7 +103,7 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](http://jeevapriyar.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](./output.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://jeevapriyar.student.saveetha.in:8000/static/images/out.png?raw=true)
