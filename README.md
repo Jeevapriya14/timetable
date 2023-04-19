@@ -103,10 +103,12 @@ Execute the program
 </html>
 ```
 # OUPUT
+
 ![OUTPUT](./output.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://jeevapriyar.student.saveetha.in:8000/static/images/out.png?raw=true)
+
+![HTML VALIDATOR](./valid.png.png)
 
 # RESULT
 The program for creating timetable is completedly successfully
